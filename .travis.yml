@@ -6,4 +6,4 @@ import:
 - source: .travis/default.yml
   if: branch = dev
 - source: .travis/release.yml
-  if: branch = master
+  if: branch = main
