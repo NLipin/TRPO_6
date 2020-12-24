@@ -11,5 +11,5 @@ deploy:
   skip_cleanup: true
   on:
     repo: NLipin/TRPO_6
-    branch: master
+    branch: main
     tags: false
